@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Students/static/css/main.2b4c41fa.css",
-    "main.js": "/Students/static/js/main.eaa25192.js",
+    "main.js": "/Students/static/js/main.0ffdca25.js",
     "static/media/1.png": "/Students/static/media/1.2640c6a4ad4ff1108140.png",
     "static/media/6.png": "/Students/static/media/6.1791c1cab9ea1452549f.png",
     "static/media/physics.png": "/Students/static/media/physics.83dcec7ab545bcebfbd2.png",
@@ -17,10 +17,10 @@
     "static/media/cartbg.png": "/Students/static/media/cartbg.e32f9d6f9e503bae32f1.png",
     "index.html": "/Students/index.html",
     "main.2b4c41fa.css.map": "/Students/static/css/main.2b4c41fa.css.map",
-    "main.eaa25192.js.map": "/Students/static/js/main.eaa25192.js.map"
+    "main.0ffdca25.js.map": "/Students/static/js/main.0ffdca25.js.map"
   },
   "entrypoints": [
     "static/css/main.2b4c41fa.css",
-    "static/js/main.eaa25192.js"
+    "static/js/main.0ffdca25.js"
   ]
 }
